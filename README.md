@@ -20,7 +20,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion">
 </p> -->
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg">
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake-dark.svg">
