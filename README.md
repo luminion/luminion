@@ -20,7 +20,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion">
 </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&theme=omni)
+
+<p align="center">
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Hello+Luminion&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000](https://github-readme-stats.vercel.app/api/top-langs/?username=3323223659&theme=omn)">
+</p>
+
 
 <!-- <p align="center"> -->
   <!-- <img src="/github-metrics.svg"> -->
