@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <img src="/github-metrics.svg">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminion)
+  <!-- <img src="/github-metrics.svg"> -->
 </p>
 
 
@@ -32,9 +33,5 @@ Here are some ideas to get you started:
 </picture>
 
 
-
-
-
-<!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+
