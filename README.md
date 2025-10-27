@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion">
 </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminion)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 
 <!-- <p align="center"> -->
   <!-- <img src="/github-metrics.svg"> -->
