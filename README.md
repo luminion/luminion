@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?Hello+World!)](https://git.io/typing-svg)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
