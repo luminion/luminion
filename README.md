@@ -23,4 +23,8 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminion)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
