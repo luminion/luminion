@@ -20,10 +20,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion">
 </p> -->
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminion)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminion)
+
+<!-- <p align="center"> -->
   <!-- <img src="/github-metrics.svg"> -->
-</p>
+<!-- </p> -->
 
 
 <picture>
