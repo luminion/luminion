@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+
