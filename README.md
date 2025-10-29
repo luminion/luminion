@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Luminion&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" align="center" style="width: 100%" />
 </div>  
   
-<div align="center">I'm Luminion, a  developer 👨‍💻 joined github since 2018 🚀</div>  
+<!-- <div align="center">I'm Luminion, a  developer 👨‍💻 joined github since 2018 🚀</div>   -->
 
 <br/>  
 <div align="center">
