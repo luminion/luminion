@@ -1,5 +1,5 @@
 <!--
-**luminion/luminion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lomercy/lomercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Luminion&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" align="center" style="width: 100%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Lomercy&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" align="center" style="width: 100%" />
 </div>  
-  
-<!-- <div align="center">I'm Luminion, a  developer 👨‍💻 joined github since 2018 🚀</div>   -->
 
 <br/>  
 <div align="center">
-  <a href="https://github.com/luminion" target="_blank">
+  <a href="https://github.com/lomercy" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
 </div>  
