@@ -17,12 +17,12 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Luminion&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" align="center" style="width: 100%" />
 </div>  
 
-<!-- <br/>  
+<br/>  
 <div align="center">
   <a href="https://github.com/luminion" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
-</div>   -->
+</div>
 
 <br/>  
 <p align="center">
