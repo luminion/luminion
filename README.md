@@ -72,8 +72,9 @@ Here are some ideas to get you started:
   </picture>
 </p> 
 
-
+<!--
 ![](./profile-3d-contrib/profile-night-view.svg)
+-->
 
 
 
