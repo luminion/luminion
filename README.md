@@ -74,8 +74,10 @@ Here are some ideas to get you started:
 
 <!--
 ![](./profile-3d-contrib/profile-night-view.svg)
--->
 ![](./profile-3d-contrib/profile-gitblock.svg)
+-->
+
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 
