@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World,+I'm+Luminion;A+Passionate+Software+Engineer;Welcome+to+my+Terminal_&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Luminion;A+Passionate+Software+Engineer;Welcome+to+my+World&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -41,15 +41,15 @@
 <br/>
 
 ### 📊 GitHub Analytics
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luminion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminion&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+</div> -->
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> -->
   <img src="/github-metrics.svg" width="48%" alt="Metrics">
 </div>
 
@@ -70,9 +70,9 @@
   <summary><b>✨ 3D Contributions</b></summary>
   <br/>
   <div align="center">
-    <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
-    <!-- <br/>
-    <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%"> -->
+    <!-- <img src="./profile-3d-contrib/profile-night-view.svg" width="80%"> -->
+    <!-- <br/> -->
+    <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%">
   </div>
 </details>
 
