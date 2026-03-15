@@ -8,7 +8,6 @@
 {
   "name": "Luminion",
   "bio": "Code artisan & system architect 💻",
-  "currently_learning": ["Cloud Native", "Advanced System Design"],
   "daily_tools": ["Claude Code", "Antigravity", "JetBrains IDE", "VSCode", "Visual Studio"],
   "hobbies": ["Open Source", "Music", "Debugging at 2 AM"]
 }
