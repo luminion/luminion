@@ -69,9 +69,9 @@
   <summary><b>✨ 3D Contributions</b></summary>
   <br/>
   <div align="center">
-    <!-- <img src="./profile-3d-contrib/profile-night-view.svg" width="80%"> -->
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
     <!-- <br/> -->
-    <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%">
+    <!-- <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%"> -->
   </div>
 </details>
 
