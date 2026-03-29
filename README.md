@@ -158,13 +158,13 @@ focus     : fast iteration, deep debugging, automation
   </picture>
 </div>
 
-<details>
+<!-- <details>
   <summary><strong>3D Contribution View</strong></summary>
   <br/>
   <div align="center">
     <img src="./profile-3d-contrib/profile-night-view.svg" width="88%" alt="3D contribution chart" />
   </div>
-</details>
+</details> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0f172a,100:14532d&height=36&section=footer" alt="footer" width="100%" />
