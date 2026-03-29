@@ -4,10 +4,6 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - master
-      - main
 
 permissions:
   contents: write
@@ -27,8 +23,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          elif git commit -m "chore: update 3d contribution graph"; then
+          if git commit -m "generated"; then
             git push
           fi

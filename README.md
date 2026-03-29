@@ -1,123 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0f172a,75:0b3b2e,100:14532d&height=200&section=header&text=Luminion&fontColor=e2e8f0&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Architect%20%7C%20Open%20Source%20Builder&descAlignY=64&animation=fadeIn" alt="header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Luminion;A+Passionate+Software+Engineer;Welcome+to+my+World&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=36BCF7" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=980&lines=Claude+Code+%2B+OpenAI+Codex+%2B+Gemini;Designing+agentic+workflows%2C+frameworks%2C+and+backend+systems;Java+%2F+Spring+%2F+.NET+%2F+Python+%2F+Automation" alt="typing" />
-</div>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/luminion?style=flat-square&label=followers&color=0f172a&labelColor=020617&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/role-ai%20engineer-082f49?style=flat-square&labelColor=020617" alt="role" />
-  <img src="https://img.shields.io/badge/focus-agentic%20workflow-0f3d2e?style=flat-square&labelColor=020617" alt="focus" />
-  <img src="https://img.shields.io/badge/mode-open%20source%20builder-1e293b?style=flat-square&labelColor=020617" alt="mode" />
-</p>
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
-
-<pre><code>$ profile.load()
-name: luminion
-title: AI Engineer / Backend Architect
-operators:
-  - Claude Code
-  - OpenAI Codex
-  - Gemini
-domains:
-  - agentic engineering
-  - backend architecture
-  - code generation
-  - developer tooling
-core_stack:
-  - Java / Spring
-  - .NET / C#
-  - Python / Automation</code></pre>
-
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-runtime-1f2937?style=flat-square&labelColor=020617" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-runtime-1f2937?style=flat-square&labelColor=020617" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Gemini-runtime-1f2937?style=flat-square&labelColor=020617" alt="Gemini" />
-  <img src="https://img.shields.io/badge/MCP-ready-1f2937?style=flat-square&labelColor=020617" alt="MCP" />
-  <img src="https://img.shields.io/badge/Automation-on-1f2937?style=flat-square&labelColor=020617" alt="Automation" />
-</p>
-
-    </td>
-    <td width="44%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
-    </td>
-  </tr>
-</table>
+```json
+{
+  "name": "Luminion",
+  "bio": "Code artisan & system architect 💻",
+  "daily_tools": ["Claude Code", "Antigravity", "JetBrains IDE", "VSCode", "Visual Studio"],
+  "hobbies": ["Open Source", "Music", "Debugging at 2 AM"]
+}
+```
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
-</div>
-
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="stats" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="repos per language" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="productive time" />
-</div>
-
-## `FLAGSHIP FRAMEWORKS`
-
-<div align="center">
-  <a href="https://github.com/luminion/sql-booster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luminion&repo=sql-booster&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=CBD5E1&icon_color=22C55E" alt="sql-booster" />
+  <a href="https://github.com/luminion">
+    <img src="https://img.shields.io/github/followers/luminion?label=Followers&style=for-the-badge&color=282a36&logo=github" alt="followers" />
   </a>
-  <a href="https://github.com/luminion/code-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luminion&repo=code-generator&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=CBD5E1&icon_color=22C55E" alt="code-generator" />
+  <a href="https://github.com/luminion">
+    <img src="https://img.shields.io/github/stars/luminion?style=for-the-badge&color=282a36&logo=apachespark&logoColor=white" alt="stars" />
   </a>
 </div>
 
+<br/>
+
+### 🛠️ Tech Stack & Arsenal
 <div align="center">
-  <a href="https://github.com/luminion/helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luminion&repo=helper&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=CBD5E1&icon_color=22C55E" alt="helper" />
+  <p><strong>Languages & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,nodejs,dotnet,spring,flask,vue,flutter,bootstrap,html,css&perline=14" />
   </a>
-  <a href="https://github.com/luminion/luminion-spring-boot-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luminion&repo=luminion-spring-boot-starter&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=7DD3FC&text_color=CBD5E1&icon_color=22C55E" alt="luminion-spring-boot-starter" />
+  <br/>
+  <p><strong>Databases, DevOps & Tools</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch,linux,nginx,docker,git,gitlab,jenkins,kafka,rabbitmq,powershell&perline=14" />
   </a>
 </div>
 
-## `STACK`
+<br/>
+
+### 📊 GitHub Analytics
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luminion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminion&theme=tokyonight&hide_border=true" width="48%" />
+</div> -->
+
+<br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,nodejs,dotnet,spring,flask,vue,flutter,mysql,postgres,redis,elasticsearch,docker,kafka,rabbitmq,jenkins,git,linux,nginx,powershell&perline=11" alt="tech stack" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminion&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> -->
+  <img src="/github-metrics.svg" width="48%" alt="Metrics">
 </div>
 
-## `SIGNAL / METRICS`
+<br/>
 
-<div align="center">
-  <img src="./github-metrics.svg" width="100%" alt="metrics overview" />
-</div>
-
-<div align="center">
-  <img src="./github-metrics.languages.svg" width="49%" alt="language metrics" />
-  <img src="./github-metrics.calendar.svg" width="49%" alt="calendar metrics" />
-</div>
-
-<div align="center">
-  <img src="./github-metrics.achievements.svg" width="49%" alt="achievement metrics" />
-</div>
-
-## `CONTRIBUTION FIELD`
-
+### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luminion/luminion/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
+<br/>
+
 <details>
-  <summary><code>3d-render</code></summary>
+  <summary><b>✨ 3D Contributions</b></summary>
   <br/>
   <div align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="88%" alt="3d contribution chart" />
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
+    <!-- <br/> -->
+    <!-- <img src="./profile-3d-contrib/profile-gitblock.svg" width="80%"> -->
   </div>
 </details>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:0f172a,75:0b3b2e,100:14532d&height=36&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 </div>
