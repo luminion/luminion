@@ -1,0 +1,29 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "20 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  summary-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: master
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
