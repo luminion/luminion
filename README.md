@@ -85,7 +85,7 @@ focus     : fast iteration, deep debugging, automation
       A JDK-first Java helper library that keeps base capability dependency-light while exposing practical modules for datetime, tree structures, bean mapping, HTTP, file handling, lambda metadata, geo operations, and optional third-party integrations on demand.
     </td>
     <td valign="top" width="50%">
-      <strong>luminion-spring-boot-starter</strong><br/>
+      <strong>spring-boot-starter</strong><br/>
       A Spring Boot starter/autoconfigure toolkit aligned with official starter conventions, covering idempotency, rate limiting, distributed locking, Jackson, Redis, caching, MyBatis-Plus, web enhancement, XSS protection, and multi-version Boot 2 / 3 / 4 support.
     </td>
   </tr>
