@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="442" viewBox="0 0 840 442" font-family="'Cascadia Code','Fira Code','JetBrains Mono',ui-monospace,Consolas,monospace">
+<defs>
+<style>
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+</style>
+<linearGradient id="lg0" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#56d4d4"/></linearGradient>
+<linearGradient id="lg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#56d4d4"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+<linearGradient id="lg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="441" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 12 A11.5 11.5 0 0 1 12 0.5 H828 A11.5 11.5 0 0 1 839.5 12 V44 H0.5 Z" fill="#161b22"/>
+<line x1="0.5" y1="44" x2="839.5" y2="44" stroke="#30363d"/>
+<circle cx="28" cy="22.0" r="6.5" fill="#ff5f56"/><circle cx="50" cy="22.0" r="6.5" fill="#ffbd2e"/><circle cx="72" cy="22.0" r="6.5" fill="#27c93f"/>
+<text x="420.0" y="27.0" fill="#6e7681" font-size="13" text-anchor="middle">luminion@github: ~/stats</text>
+<text x="28" y="78" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
+<text x="46" y="78" fill="#c9d1d9" font-size="15" font-weight="normal">gh api /users/luminion --stats</text>
+<text x="37" y="130" fill="#56d4d4" font-size="15" font-weight="bold">▹</text>
+<text x="55" y="130" fill="#6e7681" font-size="15" font-weight="normal">commits         </text>
+<text x="199" y="130" fill="#f0f6fc" font-size="15" font-weight="bold">1,637</text>
+<text x="262" y="130" fill="#6e7681" font-size="15" font-weight="normal">authored</text>
+<text x="37" y="156" fill="#56d4d4" font-size="15" font-weight="bold">▹</text>
+<text x="55" y="156" fill="#6e7681" font-size="15" font-weight="normal">public repos    </text>
+<text x="199" y="156" fill="#f0f6fc" font-size="15" font-weight="bold">18</text>
+<text x="262" y="156" fill="#6e7681" font-size="15" font-weight="normal">4 on Maven Central</text>
+<text x="37" y="182" fill="#56d4d4" font-size="15" font-weight="bold">▹</text>
+<text x="55" y="182" fill="#6e7681" font-size="15" font-weight="normal">stars earned    </text>
+<text x="199" y="182" fill="#f0f6fc" font-size="15" font-weight="bold">13</text>
+<text x="262" y="182" fill="#6e7681" font-size="15" font-weight="normal">across published libs</text>
+<text x="37" y="208" fill="#56d4d4" font-size="15" font-weight="bold">▹</text>
+<text x="55" y="208" fill="#6e7681" font-size="15" font-weight="normal">contributed to  </text>
+<text x="199" y="208" fill="#f0f6fc" font-size="15" font-weight="bold">16</text>
+<text x="262" y="208" fill="#6e7681" font-size="15" font-weight="normal">repositories</text>
+<text x="37" y="234" fill="#56d4d4" font-size="15" font-weight="bold">▹</text>
+<text x="55" y="234" fill="#6e7681" font-size="15" font-weight="normal">on github       </text>
+<text x="199" y="234" fill="#f0f6fc" font-size="15" font-weight="bold">7 yrs</text>
+<text x="262" y="234" fill="#6e7681" font-size="15" font-weight="normal">since 2019</text>
+<text x="37" y="286" fill="#56d4d4" font-size="15" font-weight="bold">languages</text>
+<text x="127" y="286" fill="#6e7681" font-size="15" font-weight="normal">— by repository</text>
+<text x="37" y="312" fill="#f0f6fc" font-size="15" font-weight="bold">Java     </text>
+<text x="118" y="312" fill="#21262d" font-size="15" font-weight="normal">██████████████████████████████</text>
+<text x="118" y="312" fill="url(#lg0)" font-size="15" font-weight="normal">█████████████████████</text>
+<text x="406" y="312" fill="#3fb950" font-size="15" font-weight="bold">70%</text>
+<text x="37" y="338" fill="#f0f6fc" font-size="15" font-weight="bold">Python   </text>
+<text x="118" y="338" fill="#21262d" font-size="15" font-weight="normal">██████████████████████████████</text>
+<text x="118" y="338" fill="url(#lg1)" font-size="15" font-weight="normal">█████</text>
+<text x="406" y="338" fill="#56d4d4" font-size="15" font-weight="bold">18%</text>
+<text x="37" y="364" fill="#f0f6fc" font-size="15" font-weight="bold">Go       </text>
+<text x="118" y="364" fill="#21262d" font-size="15" font-weight="normal">██████████████████████████████</text>
+<text x="118" y="364" fill="url(#lg2)" font-size="15" font-weight="normal">████</text>
+<text x="406" y="364" fill="#79c0ff" font-size="15" font-weight="bold">12%</text>
+<text x="28" y="416" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
+<rect x="46" y="403" width="9" height="17" fill="#3fb950" style="animation:blink 1s steps(1) infinite"/>
+</svg>

@@ -1,49 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="438" viewBox="0 0 820 438" font-family="'Cascadia Code','Fira Code','JetBrains Mono',ui-monospace,Consolas,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="466" viewBox="0 0 840 466" font-family="'Cascadia Code','Fira Code','JetBrains Mono',ui-monospace,Consolas,monospace">
 <defs>
 <style>
-@keyframes tw1{0%{width:0}4.615%{width:0}4.615%{width:0px}5.032%{width:0px}5.256%{width:9px}5.256%{width:9px}5.673%{width:9px}5.897%{width:18px}5.897%{width:18px}6.314%{width:18px}6.538%{width:27px}6.538%{width:27px}6.955%{width:27px}7.179%{width:36px}7.179%{width:36px}7.596%{width:36px}7.82%{width:45px}7.82%{width:45px}8.237%{width:45px}8.461%{width:54px}8.461%{width:54px}8.878%{width:54px}9.102%{width:63px}9.102%{width:63px}9.519%{width:63px}9.743%{width:72px}9.743%{width:72px}10.16%{width:72px}10.384%{width:81px}10.384%{width:81px}10.801%{width:81px}11.025%{width:90px}11.025%{width:90px}11.442%{width:90px}11.666%{width:99px}11.666%{width:99px}12.083%{width:99px}12.308%{width:108px}12.308%{width:108px}12.724%{width:108px}12.949%{width:117px}12.949%{width:117px}13.365%{width:117px}13.59%{width:126px}13.59%{width:126px}14.006%{width:126px}14.231%{width:135px}14.231%{width:135px}14.647%{width:135px}14.872%{width:144px}14.872%{width:144px}15.288%{width:144px}15.513%{width:153px}15.513%{width:153px}15.929%{width:153px}16.154%{width:162px}16.154%{width:162px}16.57%{width:162px}16.795%{width:171px}16.795%{width:171px}17.211%{width:171px}17.436%{width:180px}17.436%{width:180px}17.853%{width:180px}18.077%{width:189px}18.077%{width:189px}18.494%{width:189px}18.718%{width:198px}18.718%{width:198px}19.135%{width:198px}19.359%{width:207px}19.359%{width:207px}19.776%{width:207px}20.0%{width:216px}100%{width:216px}}
-@keyframes tc1{0%{transform:translateX(0)}4.615%{transform:translateX(0)}4.615%{transform:translateX(0px)}5.032%{transform:translateX(0px)}5.256%{transform:translateX(9px)}5.256%{transform:translateX(9px)}5.673%{transform:translateX(9px)}5.897%{transform:translateX(18px)}5.897%{transform:translateX(18px)}6.314%{transform:translateX(18px)}6.538%{transform:translateX(27px)}6.538%{transform:translateX(27px)}6.955%{transform:translateX(27px)}7.179%{transform:translateX(36px)}7.179%{transform:translateX(36px)}7.596%{transform:translateX(36px)}7.82%{transform:translateX(45px)}7.82%{transform:translateX(45px)}8.237%{transform:translateX(45px)}8.461%{transform:translateX(54px)}8.461%{transform:translateX(54px)}8.878%{transform:translateX(54px)}9.102%{transform:translateX(63px)}9.102%{transform:translateX(63px)}9.519%{transform:translateX(63px)}9.743%{transform:translateX(72px)}9.743%{transform:translateX(72px)}10.16%{transform:translateX(72px)}10.384%{transform:translateX(81px)}10.384%{transform:translateX(81px)}10.801%{transform:translateX(81px)}11.025%{transform:translateX(90px)}11.025%{transform:translateX(90px)}11.442%{transform:translateX(90px)}11.666%{transform:translateX(99px)}11.666%{transform:translateX(99px)}12.083%{transform:translateX(99px)}12.308%{transform:translateX(108px)}12.308%{transform:translateX(108px)}12.724%{transform:translateX(108px)}12.949%{transform:translateX(117px)}12.949%{transform:translateX(117px)}13.365%{transform:translateX(117px)}13.59%{transform:translateX(126px)}13.59%{transform:translateX(126px)}14.006%{transform:translateX(126px)}14.231%{transform:translateX(135px)}14.231%{transform:translateX(135px)}14.647%{transform:translateX(135px)}14.872%{transform:translateX(144px)}14.872%{transform:translateX(144px)}15.288%{transform:translateX(144px)}15.513%{transform:translateX(153px)}15.513%{transform:translateX(153px)}15.929%{transform:translateX(153px)}16.154%{transform:translateX(162px)}16.154%{transform:translateX(162px)}16.57%{transform:translateX(162px)}16.795%{transform:translateX(171px)}16.795%{transform:translateX(171px)}17.211%{transform:translateX(171px)}17.436%{transform:translateX(180px)}17.436%{transform:translateX(180px)}17.853%{transform:translateX(180px)}18.077%{transform:translateX(189px)}18.077%{transform:translateX(189px)}18.494%{transform:translateX(189px)}18.718%{transform:translateX(198px)}18.718%{transform:translateX(198px)}19.135%{transform:translateX(198px)}19.359%{transform:translateX(207px)}19.359%{transform:translateX(207px)}19.776%{transform:translateX(207px)}20.0%{transform:translateX(216px)}100%{transform:translateX(216px)}}
-@keyframes cf1{0%,24.115%{opacity:.9}24.615%,100%{opacity:0}}
+@keyframes tw1{0%{width:0}3.846%{width:0}3.846%{width:0px}4.596%{width:0px}5.0%{width:9px}5.0%{width:9px}5.75%{width:9px}6.154%{width:18px}6.154%{width:18px}6.904%{width:18px}7.307%{width:27px}7.307%{width:27px}8.057%{width:27px}8.461%{width:36px}8.461%{width:36px}9.211%{width:36px}9.615%{width:45px}9.615%{width:45px}10.365%{width:45px}10.769%{width:54px}100%{width:54px}}
+@keyframes tc1{0%{transform:translateX(0)}3.846%{transform:translateX(0)}3.846%{transform:translateX(0px)}4.596%{transform:translateX(0px)}5.0%{transform:translateX(9px)}5.0%{transform:translateX(9px)}5.75%{transform:translateX(9px)}6.154%{transform:translateX(18px)}6.154%{transform:translateX(18px)}6.904%{transform:translateX(18px)}7.307%{transform:translateX(27px)}7.307%{transform:translateX(27px)}8.057%{transform:translateX(27px)}8.461%{transform:translateX(36px)}8.461%{transform:translateX(36px)}9.211%{transform:translateX(36px)}9.615%{transform:translateX(45px)}9.615%{transform:translateX(45px)}10.365%{transform:translateX(45px)}10.769%{transform:translateX(54px)}100%{transform:translateX(54px)}}
+@keyframes cf1{0%,14.885%{opacity:.9}15.385%,100%{opacity:0}}
+@keyframes f2{0%,13.146%{opacity:0}13.846%,100%{opacity:1}}
+@keyframes f3{0%,17.762%{opacity:0}18.462%,100%{opacity:1}}
+@keyframes f4{0%,22.377000000000002%{opacity:0}23.077%,100%{opacity:1}}
+@keyframes f5{0%,26.223%{opacity:0}26.923%,100%{opacity:1}}
+@keyframes f6{0%,30.069%{opacity:0}30.769%,100%{opacity:1}}
+@keyframes f7{0%,33.915%{opacity:0}34.615%,100%{opacity:1}}
+@keyframes f8{0%,37.762%{opacity:0}38.462%,100%{opacity:1}}
+@keyframes f9{0%,50.068999999999996%{opacity:0}50.769%,100%{opacity:1}}
 @keyframes spin{to{transform:rotate(360deg)}}
-@keyframes f3{0%,22.377000000000002%{opacity:0}23.077%,42.077%{opacity:1}43.077%,100%{opacity:0}}
-@keyframes f4{0%,22.377000000000002%{opacity:0}23.077%,42.077%{opacity:1}43.077%,100%{opacity:0}}
-@keyframes f5{0%,42.376999999999995%{opacity:0}43.077%,100%{opacity:1}}
-@keyframes f6{0%,44.684999999999995%{opacity:0}45.385%,100%{opacity:1}}
-@keyframes f7{0%,47.762%{opacity:0}48.462%,100%{opacity:1}}
-@keyframes f8{0%,50.837999999999994%{opacity:0}51.538%,100%{opacity:1}}
-@keyframes f9{0%,53.915%{opacity:0}54.615%,100%{opacity:1}}
-@keyframes bar10{0%,61.538%{width:0}80.0%,100%{width:288px}}
-@keyframes f11{0%,60.837999999999994%{opacity:0}61.538%,100%{opacity:1}}
-@keyframes f12{0%,79.3%{opacity:0}80.0%,100%{opacity:1}}
-@keyframes f13{0%,82.377%{opacity:0}83.077%,100%{opacity:1}}
+@keyframes f10{0%,53.915%{opacity:0}54.615%,63.614999999999995%{opacity:1}64.615%,100%{opacity:0}}
+@keyframes f11{0%,53.915%{opacity:0}54.615%,63.614999999999995%{opacity:1}64.615%,100%{opacity:0}}
+@keyframes f12{0%,63.91499999999999%{opacity:0}64.615%,100%{opacity:1}}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-@keyframes f14{0%,86.99199999999999%{opacity:0}87.692%,100%{opacity:1}}
+@keyframes f13{0%,70.069%{opacity:0}70.769%,100%{opacity:1}}
 @keyframes sess{0%{opacity:0}2%{opacity:1}92.308%{opacity:1}100%{opacity:0}}
 </style>
-<clipPath id="cl1"><rect x="46" y="59" width="0" height="21" style="animation:tw1 13.0s linear infinite"/></clipPath>
-<clipPath id="bc10"><rect x="37" y="293" width="0" height="21" style="animation:bar10 13.0s linear infinite"/></clipPath>
-<linearGradient id="bg10" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#56d4d4"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+<clipPath id="cl1"><rect x="46" y="61" width="0" height="21" style="animation:tw1 13.0s linear infinite"/></clipPath>
 </defs>
-<rect x="0.5" y="0.5" width="819" height="437" rx="12" fill="#0d1117" stroke="#30363d"/>
-<path d="M0.5 12 A11.5 11.5 0 0 1 12 0.5 H808 A11.5 11.5 0 0 1 819.5 12 V44 H0.5 Z" fill="#161b22"/>
-<line x1="0.5" y1="44" x2="819.5" y2="44" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="839" height="465" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 12 A11.5 11.5 0 0 1 12 0.5 H828 A11.5 11.5 0 0 1 839.5 12 V44 H0.5 Z" fill="#161b22"/>
+<line x1="0.5" y1="44" x2="839.5" y2="44" stroke="#30363d"/>
 <circle cx="28" cy="22.0" r="6.5" fill="#ff5f56"/><circle cx="50" cy="22.0" r="6.5" fill="#ffbd2e"/><circle cx="72" cy="22.0" r="6.5" fill="#27c93f"/>
-<text x="410.0" y="27.0" fill="#6e7681" font-size="13" text-anchor="middle">luminion@github: ~/open-source</text>
+<text x="420.0" y="27.0" fill="#6e7681" font-size="13" text-anchor="middle">luminion@github: ~</text>
 <g style="animation:sess 13.0s linear infinite">
-<text x="28" y="74" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
-<g clip-path="url(#cl1)"><text x="46" y="74" fill="#c9d1d9" font-size="15" font-weight="normal">show projects --featured</text></g>
-<rect x="46" y="61" width="9" height="17" fill="#3fb950" style="animation:tc1 13.0s linear infinite,cf1 13.0s linear infinite"/>
-<g style="animation:f3 13.0s linear infinite;"><g transform="translate(41.5,120.9)"><g style="transform-origin:0 0;animation:spin 0.8s linear infinite"><circle r="6" fill="none" stroke="#30363d" stroke-width="2"/><path d="M0,-6 A6,6 0 0 1 6,0" fill="none" stroke="#56d4d4" stroke-width="2" stroke-linecap="round"/></g></g></g>
-<g style="animation:f4 13.0s linear infinite;"><text x="55" y="126" fill="#6e7681" font-size="15" font-weight="normal">fetching repositories from </text><text x="298" y="126" fill="#79c0ff" font-size="15" font-weight="normal">github.com/luminion</text><text x="469" y="126" fill="#6e7681" font-size="15" font-weight="normal"> …</text></g>
-<g style="animation:f5 13.0s linear infinite;"><text x="37" y="126" fill="#3fb950" font-size="15" font-weight="bold">✔</text><text x="55" y="126" fill="#6e7681" font-size="15" font-weight="normal">resolved</text><text x="136" y="126" fill="#f0f6fc" font-size="15" font-weight="bold">4</text><text x="154" y="126" fill="#6e7681" font-size="15" font-weight="normal">featured frameworks</text></g>
-<g style="animation:f6 13.0s linear infinite;"><text x="37" y="178" fill="#56d4d4" font-size="15" font-weight="bold">◆</text><text x="55" y="178" fill="#3fb950" font-size="15" font-weight="bold">sql-booster</text><text x="244" y="178" fill="#6e7681" font-size="15" font-weight="normal">query-design toolkit · MyBatis / MyBatis-Plus</text></g>
-<g style="animation:f7 13.0s linear infinite;"><text x="37" y="204" fill="#56d4d4" font-size="15" font-weight="bold">◆</text><text x="55" y="204" fill="#3fb950" font-size="15" font-weight="bold">code-generator</text><text x="244" y="204" fill="#6e7681" font-size="15" font-weight="normal">Lambda-style backend code generator</text></g>
-<g style="animation:f8 13.0s linear infinite;"><text x="37" y="230" fill="#56d4d4" font-size="15" font-weight="bold">◆</text><text x="55" y="230" fill="#3fb950" font-size="15" font-weight="bold">spring-boot-starter</text><text x="244" y="230" fill="#6e7681" font-size="15" font-weight="normal">starter for common Spring Boot scenarios</text></g>
-<g style="animation:f9 13.0s linear infinite;"><text x="37" y="256" fill="#56d4d4" font-size="15" font-weight="bold">◆</text><text x="55" y="256" fill="#3fb950" font-size="15" font-weight="bold">helper</text><text x="244" y="256" fill="#6e7681" font-size="15" font-weight="normal">JDK-first Java utility library</text></g>
-<g style="animation:f11 13.0s linear infinite;"><text x="37" y="308" fill="#21262d" font-size="15" font-weight="normal">████████████████████████████████</text></g>
-<g clip-path="url(#bc10)"><text x="37" y="308" fill="url(#bg10)" font-size="15" font-weight="normal">████████████████████████████████</text></g>
-<g style="animation:f12 13.0s linear infinite;"><text x="343" y="308" fill="#3fb950" font-size="15" font-weight="bold">100%</text></g>
-<g style="animation:f13 13.0s linear infinite;"><text x="28" y="360" fill="#3fb950" font-size="15" font-weight="bold">✔</text><text x="46" y="360" fill="#c9d1d9" font-size="15" font-weight="normal">done in </text><text x="118" y="360" fill="#56d4d4" font-size="15" font-weight="bold">1.4s</text><text x="163" y="360" fill="#6e7681" font-size="15" font-weight="normal">— ready to explore</text></g>
-<g style="animation:f14 13.0s linear infinite;"><text x="28" y="412" fill="#3fb950" font-size="15" font-weight="bold">❯</text><rect x="46" y="399" width="9" height="17" fill="#3fb950" style="animation:blink 1s steps(1) infinite"/></g>
+<text x="28" y="76" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
+<g clip-path="url(#cl1)"><text x="46" y="76" fill="#c9d1d9" font-size="15" font-weight="normal">whoami</text></g>
+<rect x="46" y="63" width="9" height="17" fill="#3fb950" style="animation:tc1 13.0s linear infinite,cf1 13.0s linear infinite"/>
+<g style="animation:f2 13.0s linear infinite;"><text x="28" y="102" fill="#3fb950" font-size="15" font-weight="bold">luminion</text><text x="109" y="102" fill="#6e7681" font-size="15" font-weight="normal">— backend engineer · open-source framework builder</text></g>
+<g style="animation:f3 13.0s linear infinite;"><text x="28" y="154" fill="#3fb950" font-size="15" font-weight="bold">❯</text><text x="46" y="154" fill="#c9d1d9" font-size="15" font-weight="normal">cat about.md</text></g>
+<g style="animation:f4 13.0s linear infinite;"><text x="28" y="180" fill="#6e7681" font-size="15" font-weight="normal">I design and ship </text><text x="190" y="180" fill="#f0f6fc" font-size="15" font-weight="bold">open-source Java frameworks</text><text x="433" y="180" fill="#6e7681" font-size="15" font-weight="normal"> that remove</text></g>
+<g style="animation:f5 13.0s linear infinite;"><text x="28" y="206" fill="#6e7681" font-size="15" font-weight="normal">backend boilerplate — </text><text x="226" y="206" fill="#f0f6fc" font-size="15" font-weight="bold">query toolkits, code generators,</text></g>
+<g style="animation:f6 13.0s linear infinite;"><text x="28" y="232" fill="#f0f6fc" font-size="15" font-weight="bold">Spring Boot starters</text><text x="208" y="232" fill="#6e7681" font-size="15" font-weight="normal">, and dependency-light libraries.</text></g>
+<g style="animation:f7 13.0s linear infinite;"><text x="28" y="284" fill="#6e7681" font-size="15" font-weight="normal">Lately: </text><text x="100" y="284" fill="#56d4d4" font-size="15" font-weight="bold">wiring LLMs into real Java services</text><text x="415" y="284" fill="#6e7681" font-size="15" font-weight="normal"> with</text></g>
+<g style="animation:f8 13.0s linear infinite;"><text x="28" y="310" fill="#56d4d4" font-size="15" font-weight="bold">LangChain4j, Spring AI, and MCP.</text></g>
+<g style="animation:f9 13.0s linear infinite;"><text x="28" y="362" fill="#3fb950" font-size="15" font-weight="bold">❯</text><text x="46" y="362" fill="#c9d1d9" font-size="15" font-weight="normal">git log --author=luminion --oneline | wc -l</text></g>
+<g style="animation:f10 13.0s linear infinite;"><g transform="translate(41.5,382.9)"><g style="transform-origin:0 0;animation:spin 0.8s linear infinite"><circle r="6" fill="none" stroke="#30363d" stroke-width="2"/><path d="M0,-6 A6,6 0 0 1 6,0" fill="none" stroke="#56d4d4" stroke-width="2" stroke-linecap="round"/></g></g></g>
+<g style="animation:f11 13.0s linear infinite;"><text x="55" y="388" fill="#6e7681" font-size="15" font-weight="normal">counting commits across 18 repositories …</text></g>
+<g style="animation:f12 13.0s linear infinite;"><text x="37" y="388" fill="#3fb950" font-size="15" font-weight="bold">✔</text><text x="55" y="388" fill="#56d4d4" font-size="15" font-weight="bold">1637</text><text x="100" y="388" fill="#6e7681" font-size="15" font-weight="normal">commits · </text><text x="190" y="388" fill="#f0f6fc" font-size="15" font-weight="bold">7 years</text><text x="262" y="388" fill="#6e7681" font-size="15" font-weight="normal">on GitHub · </text><text x="379" y="388" fill="#3fb950" font-size="15" font-weight="normal">always shipping</text></g>
+<g style="animation:f13 13.0s linear infinite;"><text x="28" y="440" fill="#3fb950" font-size="15" font-weight="bold">❯</text><rect x="46" y="427" width="9" height="17" fill="#3fb950" style="animation:blink 1s steps(1) infinite"/></g>
 </g>
 </svg>

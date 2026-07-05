@@ -1,61 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="424" viewBox="0 0 820 424" font-family="'Cascadia Code','Fira Code','JetBrains Mono',ui-monospace,Consolas,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="401" viewBox="0 0 840 401" font-family="'Cascadia Code','Fira Code','JetBrains Mono',ui-monospace,Consolas,monospace">
 <defs>
 <style>
-@keyframes tw1{0%{width:0}5.455%{width:0}5.455%{width:0px}5.88%{width:0px}6.11%{width:9px}6.11%{width:9px}6.535%{width:9px}6.764%{width:18px}6.764%{width:18px}7.189%{width:18px}7.419%{width:27px}7.419%{width:27px}7.844%{width:27px}8.073%{width:36px}8.073%{width:36px}8.499%{width:36px}8.728%{width:45px}8.728%{width:45px}9.153%{width:45px}9.382%{width:54px}9.382%{width:54px}9.808%{width:54px}10.037%{width:63px}10.037%{width:63px}10.462%{width:63px}10.691%{width:72px}10.691%{width:72px}11.117%{width:72px}11.346%{width:81px}11.346%{width:81px}11.771%{width:81px}12.0%{width:90px}12.0%{width:90px}12.426%{width:90px}12.655%{width:99px}12.655%{width:99px}13.08%{width:99px}13.309%{width:108px}13.309%{width:108px}13.735%{width:108px}13.964%{width:117px}13.964%{width:117px}14.389%{width:117px}14.618%{width:126px}14.618%{width:126px}15.044%{width:126px}15.273%{width:135px}15.273%{width:135px}15.698%{width:135px}15.927%{width:144px}15.927%{width:144px}16.353%{width:144px}16.582%{width:153px}16.582%{width:153px}17.007%{width:153px}17.236%{width:162px}17.236%{width:162px}17.662%{width:162px}17.891%{width:171px}17.891%{width:171px}18.316%{width:171px}18.545%{width:180px}18.545%{width:180px}18.971%{width:180px}19.2%{width:189px}19.2%{width:189px}19.625%{width:189px}19.854%{width:198px}19.854%{width:198px}20.28%{width:198px}20.509%{width:207px}20.509%{width:207px}20.934%{width:207px}21.163%{width:216px}21.163%{width:216px}21.589%{width:216px}21.818%{width:225px}100%{width:225px}}
-@keyframes tc1{0%{transform:translateX(0)}5.455%{transform:translateX(0)}5.455%{transform:translateX(0px)}5.88%{transform:translateX(0px)}6.11%{transform:translateX(9px)}6.11%{transform:translateX(9px)}6.535%{transform:translateX(9px)}6.764%{transform:translateX(18px)}6.764%{transform:translateX(18px)}7.189%{transform:translateX(18px)}7.419%{transform:translateX(27px)}7.419%{transform:translateX(27px)}7.844%{transform:translateX(27px)}8.073%{transform:translateX(36px)}8.073%{transform:translateX(36px)}8.499%{transform:translateX(36px)}8.728%{transform:translateX(45px)}8.728%{transform:translateX(45px)}9.153%{transform:translateX(45px)}9.382%{transform:translateX(54px)}9.382%{transform:translateX(54px)}9.808%{transform:translateX(54px)}10.037%{transform:translateX(63px)}10.037%{transform:translateX(63px)}10.462%{transform:translateX(63px)}10.691%{transform:translateX(72px)}10.691%{transform:translateX(72px)}11.117%{transform:translateX(72px)}11.346%{transform:translateX(81px)}11.346%{transform:translateX(81px)}11.771%{transform:translateX(81px)}12.0%{transform:translateX(90px)}12.0%{transform:translateX(90px)}12.426%{transform:translateX(90px)}12.655%{transform:translateX(99px)}12.655%{transform:translateX(99px)}13.08%{transform:translateX(99px)}13.309%{transform:translateX(108px)}13.309%{transform:translateX(108px)}13.735%{transform:translateX(108px)}13.964%{transform:translateX(117px)}13.964%{transform:translateX(117px)}14.389%{transform:translateX(117px)}14.618%{transform:translateX(126px)}14.618%{transform:translateX(126px)}15.044%{transform:translateX(126px)}15.273%{transform:translateX(135px)}15.273%{transform:translateX(135px)}15.698%{transform:translateX(135px)}15.927%{transform:translateX(144px)}15.927%{transform:translateX(144px)}16.353%{transform:translateX(144px)}16.582%{transform:translateX(153px)}16.582%{transform:translateX(153px)}17.007%{transform:translateX(153px)}17.236%{transform:translateX(162px)}17.236%{transform:translateX(162px)}17.662%{transform:translateX(162px)}17.891%{transform:translateX(171px)}17.891%{transform:translateX(171px)}18.316%{transform:translateX(171px)}18.545%{transform:translateX(180px)}18.545%{transform:translateX(180px)}18.971%{transform:translateX(180px)}19.2%{transform:translateX(189px)}19.2%{transform:translateX(189px)}19.625%{transform:translateX(189px)}19.854%{transform:translateX(198px)}19.854%{transform:translateX(198px)}20.28%{transform:translateX(198px)}20.509%{transform:translateX(207px)}20.509%{transform:translateX(207px)}20.934%{transform:translateX(207px)}21.163%{transform:translateX(216px)}21.163%{transform:translateX(216px)}21.589%{transform:translateX(216px)}21.818%{transform:translateX(225px)}100%{transform:translateX(225px)}}
-@keyframes cf1{0%,26.773%{opacity:.9}27.273%,100%{opacity:0}}
-@keyframes f2{0%,26.573%{opacity:0}27.273%,100%{opacity:1}}
-@keyframes f3{0%,27.391000000000002%{opacity:0}28.091%,100%{opacity:1}}
-@keyframes f4{0%,28.209%{opacity:0}28.909%,100%{opacity:1}}
-@keyframes f5{0%,29.027%{opacity:0}29.727%,100%{opacity:1}}
-@keyframes f6{0%,29.845000000000002%{opacity:0}30.545%,100%{opacity:1}}
-@keyframes f7{0%,30.664%{opacity:0}31.364%,100%{opacity:1}}
-@keyframes f8{0%,31.482000000000003%{opacity:0}32.182%,100%{opacity:1}}
-@keyframes f9{0%,32.3%{opacity:0}33.0%,100%{opacity:1}}
-@keyframes f10{0%,27.482%{opacity:0}28.182%,100%{opacity:1}}
-@keyframes f11{0%,28.573%{opacity:0}29.273%,100%{opacity:1}}
-@keyframes f12{0%,29.664%{opacity:0}30.364%,100%{opacity:1}}
-@keyframes f13{0%,30.755%{opacity:0}31.455%,100%{opacity:1}}
-@keyframes f14{0%,31.845000000000002%{opacity:0}32.545%,100%{opacity:1}}
-@keyframes f15{0%,32.936%{opacity:0}33.636%,100%{opacity:1}}
-@keyframes f16{0%,34.026999999999994%{opacity:0}34.727%,100%{opacity:1}}
-@keyframes f17{0%,35.117999999999995%{opacity:0}35.818%,100%{opacity:1}}
-@keyframes f18{0%,36.208999999999996%{opacity:0}36.909%,100%{opacity:1}}
-@keyframes f19{0%,37.3%{opacity:0}38.0%,100%{opacity:1}}
-@keyframes f20{0%,38.391%{opacity:0}39.091%,100%{opacity:1}}
-@keyframes f21{0%,43.845%{opacity:0}44.545%,100%{opacity:1}}
+@keyframes tw1{0%{width:0}5.455%{width:0}5.455%{width:0px}6.194%{width:0px}6.591%{width:9px}6.591%{width:9px}7.33%{width:9px}7.728%{width:18px}7.728%{width:18px}8.466%{width:18px}8.864%{width:27px}8.864%{width:27px}9.602%{width:27px}10.0%{width:36px}10.0%{width:36px}10.739%{width:36px}11.136%{width:45px}11.136%{width:45px}11.875%{width:45px}12.273%{width:54px}12.273%{width:54px}13.011%{width:54px}13.409%{width:63px}13.409%{width:63px}14.147%{width:63px}14.545%{width:72px}100%{width:72px}}
+@keyframes tc1{0%{transform:translateX(0)}5.455%{transform:translateX(0)}5.455%{transform:translateX(0px)}6.194%{transform:translateX(0px)}6.591%{transform:translateX(9px)}6.591%{transform:translateX(9px)}7.33%{transform:translateX(9px)}7.728%{transform:translateX(18px)}7.728%{transform:translateX(18px)}8.466%{transform:translateX(18px)}8.864%{transform:translateX(27px)}8.864%{transform:translateX(27px)}9.602%{transform:translateX(27px)}10.0%{transform:translateX(36px)}10.0%{transform:translateX(36px)}10.739%{transform:translateX(36px)}11.136%{transform:translateX(45px)}11.136%{transform:translateX(45px)}11.875%{transform:translateX(45px)}12.273%{transform:translateX(54px)}12.273%{transform:translateX(54px)}13.011%{transform:translateX(54px)}13.409%{transform:translateX(63px)}13.409%{transform:translateX(63px)}14.147%{transform:translateX(63px)}14.545%{transform:translateX(72px)}100%{transform:translateX(72px)}}
+@keyframes cf1{0%,19.5%{opacity:.9}20.0%,100%{opacity:0}}
+@keyframes f2{0%,19.3%{opacity:0}20.0%,100%{opacity:1}}
+@keyframes f3{0%,20.118000000000002%{opacity:0}20.818%,100%{opacity:1}}
+@keyframes f4{0%,20.936%{opacity:0}21.636%,100%{opacity:1}}
+@keyframes f5{0%,21.755%{opacity:0}22.455%,100%{opacity:1}}
+@keyframes f6{0%,22.573%{opacity:0}23.273%,100%{opacity:1}}
+@keyframes f7{0%,23.391000000000002%{opacity:0}24.091%,100%{opacity:1}}
+@keyframes f8{0%,24.209%{opacity:0}24.909%,100%{opacity:1}}
+@keyframes f9{0%,25.027%{opacity:0}25.727%,100%{opacity:1}}
+@keyframes f10{0%,21.118000000000002%{opacity:0}21.818%,100%{opacity:1}}
+@keyframes f11{0%,22.3%{opacity:0}23.0%,100%{opacity:1}}
+@keyframes f12{0%,23.482%{opacity:0}24.182%,100%{opacity:1}}
+@keyframes f13{0%,24.664%{opacity:0}25.364%,100%{opacity:1}}
+@keyframes f14{0%,25.845000000000002%{opacity:0}26.545%,100%{opacity:1}}
+@keyframes f15{0%,27.027%{opacity:0}27.727%,100%{opacity:1}}
+@keyframes f16{0%,28.209%{opacity:0}28.909%,100%{opacity:1}}
+@keyframes f17{0%,29.391000000000002%{opacity:0}30.091%,100%{opacity:1}}
+@keyframes f18{0%,30.573%{opacity:0}31.273%,100%{opacity:1}}
+@keyframes f19{0%,31.755%{opacity:0}32.455%,100%{opacity:1}}
+@keyframes f20{0%,41.117999999999995%{opacity:0}41.818%,100%{opacity:1}}
 @keyframes sess{0%{opacity:0}2%{opacity:1}90.909%{opacity:1}100%{opacity:0}}
 </style>
-<clipPath id="cl1"><rect x="46" y="59" width="0" height="21" style="animation:tw1 11.0s linear infinite"/></clipPath>
+<clipPath id="cl1"><rect x="46" y="61" width="0" height="21" style="animation:tw1 11.0s linear infinite"/></clipPath>
 </defs>
-<rect x="0.5" y="0.5" width="819" height="423" rx="12" fill="#0d1117" stroke="#30363d"/>
-<path d="M0.5 12 A11.5 11.5 0 0 1 12 0.5 H808 A11.5 11.5 0 0 1 819.5 12 V44 H0.5 Z" fill="#161b22"/>
-<line x1="0.5" y1="44" x2="819.5" y2="44" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="839" height="400" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 12 A11.5 11.5 0 0 1 12 0.5 H828 A11.5 11.5 0 0 1 839.5 12 V44 H0.5 Z" fill="#161b22"/>
+<line x1="0.5" y1="44" x2="839.5" y2="44" stroke="#30363d"/>
 <circle cx="28" cy="22.0" r="6.5" fill="#ff5f56"/><circle cx="50" cy="22.0" r="6.5" fill="#ffbd2e"/><circle cx="72" cy="22.0" r="6.5" fill="#27c93f"/>
-<text x="410.0" y="27.0" fill="#6e7681" font-size="13" text-anchor="middle">luminion@github: ~</text>
+<text x="420.0" y="27.0" fill="#6e7681" font-size="13" text-anchor="middle">luminion@github: ~</text>
 <g style="animation:sess 11.0s linear infinite">
-<text x="28" y="74" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
-<g clip-path="url(#cl1)"><text x="46" y="74" fill="#c9d1d9" font-size="15" font-weight="normal">neofetch --ascii luminion</text></g>
-<rect x="46" y="61" width="9" height="17" fill="#3fb950" style="animation:tc1 11.0s linear infinite,cf1 11.0s linear infinite"/>
-<g style="animation:f2 11.0s linear infinite;"><text x="28" y="124" fill="#56d4d4" font-size="15" font-weight="bold">         ╱╲</text></g>
-<g style="animation:f3 11.0s linear infinite;"><text x="28" y="149" fill="#56d4d4" font-size="15" font-weight="bold">        ╱  ╲</text></g>
-<g style="animation:f4 11.0s linear infinite;"><text x="28" y="174" fill="#4ad3c8" font-size="15" font-weight="bold">       ╱ ╱╲ ╲</text></g>
-<g style="animation:f5 11.0s linear infinite;"><text x="28" y="199" fill="#43cfb0" font-size="15" font-weight="bold">      ╱ ╱  ╲ ╲</text></g>
-<g style="animation:f6 11.0s linear infinite;"><text x="28" y="224" fill="#3fca8f" font-size="15" font-weight="bold">     ╱ ╱ ╲╱ ╲ ╲</text></g>
-<g style="animation:f7 11.0s linear infinite;"><text x="28" y="249" fill="#3fb950" font-size="15" font-weight="bold">    ╱ ╱  ╱╲  ╲ ╲</text></g>
-<g style="animation:f8 11.0s linear infinite;"><text x="28" y="274" fill="#3fb950" font-size="15" font-weight="bold">   ╱ ╱__╱  ╲__╲ ╲</text></g>
-<g style="animation:f9 11.0s linear infinite;"><text x="28" y="299" fill="#3fb950" font-size="15" font-weight="bold">  ╱__╱________╲__╲</text></g>
-<g style="animation:f10 11.0s linear infinite;"><text x="208" y="99" fill="#3fb950" font-size="15" font-weight="bold">luminion</text><text x="280" y="99" fill="#6e7681" font-size="15" font-weight="normal">@</text><text x="289" y="99" fill="#56d4d4" font-size="15" font-weight="bold">github</text></g>
-<g style="animation:f11 11.0s linear infinite;"><text x="208" y="124" fill="#21262d" font-size="15" font-weight="normal">──────────────────────────────</text></g>
-<g style="animation:f12 11.0s linear infinite;"><text x="208" y="149" fill="#56d4d4" font-size="15" font-weight="bold">OS      </text><text x="280" y="149" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="149" fill="#f0f6fc" font-size="15" font-weight="normal">Backend Architecture</text></g>
-<g style="animation:f13 11.0s linear infinite;"><text x="208" y="174" fill="#56d4d4" font-size="15" font-weight="bold">Host    </text><text x="280" y="174" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="174" fill="#f0f6fc" font-size="15" font-weight="normal">Open-Source Frameworks</text></g>
-<g style="animation:f14 11.0s linear infinite;"><text x="208" y="199" fill="#56d4d4" font-size="15" font-weight="bold">Kernel  </text><text x="280" y="199" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="199" fill="#f0f6fc" font-size="15" font-weight="normal">Java · Spring Boot · MyBatis</text></g>
-<g style="animation:f15 11.0s linear infinite;"><text x="208" y="224" fill="#56d4d4" font-size="15" font-weight="bold">Lang    </text><text x="280" y="224" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="224" fill="#f0f6fc" font-size="15" font-weight="normal">Java · Python · Go</text></g>
-<g style="animation:f16 11.0s linear infinite;"><text x="208" y="249" fill="#56d4d4" font-size="15" font-weight="bold">Editor  </text><text x="280" y="249" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="249" fill="#f0f6fc" font-size="15" font-weight="normal">JetBrains · VS Code · Visual Studio · Eclipse</text></g>
-<g style="animation:f17 11.0s linear infinite;"><text x="208" y="274" fill="#56d4d4" font-size="15" font-weight="bold">AI      </text><text x="280" y="274" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="274" fill="#f0f6fc" font-size="15" font-weight="normal">Cursor · Kiro · Antigravity</text></g>
-<g style="animation:f18 11.0s linear infinite;"><text x="208" y="299" fill="#56d4d4" font-size="15" font-weight="bold">Shell   </text><text x="280" y="299" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="299" fill="#f0f6fc" font-size="15" font-weight="normal">Claude Code · Codex · Gemini CLI</text></g>
-<g style="animation:f19 11.0s linear infinite;"><text x="208" y="324" fill="#56d4d4" font-size="15" font-weight="bold">Infra   </text><text x="280" y="324" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="324" fill="#f0f6fc" font-size="15" font-weight="normal">MySQL · Redis · Docker · Kafka</text></g>
-<g style="animation:f20 11.0s linear infinite;"><text x="208" y="349" fill="#56d4d4" font-size="15" font-weight="bold">Focus   </text><text x="280" y="349" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="349" fill="#f0f6fc" font-size="15" font-weight="normal">backend tooling · automation · AI integration</text></g>
-<g style="animation:f21 11.0s linear infinite;"><rect x="208" y="385" width="24" height="14" rx="2" fill="#484f58"/><rect x="236" y="385" width="24" height="14" rx="2" fill="#ff7b72"/><rect x="264" y="385" width="24" height="14" rx="2" fill="#3fb950"/><rect x="292" y="385" width="24" height="14" rx="2" fill="#d29922"/><rect x="320" y="385" width="24" height="14" rx="2" fill="#79c0ff"/><rect x="348" y="385" width="24" height="14" rx="2" fill="#bc8cff"/><rect x="376" y="385" width="24" height="14" rx="2" fill="#56d4d4"/><rect x="404" y="385" width="24" height="14" rx="2" fill="#f0f6fc"/></g>
+<text x="28" y="76" fill="#3fb950" font-size="15" font-weight="bold">❯</text>
+<g clip-path="url(#cl1)"><text x="46" y="76" fill="#c9d1d9" font-size="15" font-weight="normal">neofetch</text></g>
+<rect x="46" y="63" width="9" height="17" fill="#3fb950" style="animation:tc1 11.0s linear infinite,cf1 11.0s linear infinite"/>
+<g style="animation:f2 11.0s linear infinite;"><text x="28" y="126" fill="#56d4d4" font-size="15" font-weight="bold">         ╱╲</text></g>
+<g style="animation:f3 11.0s linear infinite;"><text x="28" y="151" fill="#56d4d4" font-size="15" font-weight="bold">        ╱  ╲</text></g>
+<g style="animation:f4 11.0s linear infinite;"><text x="28" y="176" fill="#4ad3c8" font-size="15" font-weight="bold">       ╱ ╱╲ ╲</text></g>
+<g style="animation:f5 11.0s linear infinite;"><text x="28" y="201" fill="#43cfb0" font-size="15" font-weight="bold">      ╱ ╱  ╲ ╲</text></g>
+<g style="animation:f6 11.0s linear infinite;"><text x="28" y="226" fill="#3fca8f" font-size="15" font-weight="bold">     ╱ ╱ ╲╱ ╲ ╲</text></g>
+<g style="animation:f7 11.0s linear infinite;"><text x="28" y="251" fill="#3fb950" font-size="15" font-weight="bold">    ╱ ╱  ╱╲  ╲ ╲</text></g>
+<g style="animation:f8 11.0s linear infinite;"><text x="28" y="276" fill="#3fb950" font-size="15" font-weight="bold">   ╱ ╱__╱  ╲__╲ ╲</text></g>
+<g style="animation:f9 11.0s linear infinite;"><text x="28" y="301" fill="#3fb950" font-size="15" font-weight="bold">  ╱__╱________╲__╲</text></g>
+<g style="animation:f10 11.0s linear infinite;"><text x="208" y="101" fill="#3fb950" font-size="15" font-weight="bold">luminion</text><text x="280" y="101" fill="#6e7681" font-size="15" font-weight="normal">@</text><text x="289" y="101" fill="#56d4d4" font-size="15" font-weight="bold">github</text></g>
+<g style="animation:f11 11.0s linear infinite;"><text x="208" y="126" fill="#21262d" font-size="15" font-weight="normal">────────────────────────────────</text></g>
+<g style="animation:f12 11.0s linear infinite;"><text x="208" y="151" fill="#56d4d4" font-size="15" font-weight="bold">Role    </text><text x="280" y="151" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="151" fill="#f0f6fc" font-size="15" font-weight="normal">Backend Engineer · Framework Builder</text></g>
+<g style="animation:f13 11.0s linear infinite;"><text x="208" y="176" fill="#56d4d4" font-size="15" font-weight="bold">Uptime  </text><text x="280" y="176" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="176" fill="#f0f6fc" font-size="15" font-weight="normal">7 years on GitHub · 18 repositories</text></g>
+<g style="animation:f14 11.0s linear infinite;"><text x="208" y="201" fill="#56d4d4" font-size="15" font-weight="bold">Kernel  </text><text x="280" y="201" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="201" fill="#f0f6fc" font-size="15" font-weight="normal">Java · Spring Boot · MyBatis-Plus</text></g>
+<g style="animation:f15 11.0s linear infinite;"><text x="208" y="226" fill="#56d4d4" font-size="15" font-weight="bold">Shell   </text><text x="280" y="226" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="226" fill="#f0f6fc" font-size="15" font-weight="normal">Python · Go · SQL</text></g>
+<g style="animation:f16 11.0s linear infinite;"><text x="208" y="251" fill="#56d4d4" font-size="15" font-weight="bold">Editor  </text><text x="280" y="251" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="251" fill="#f0f6fc" font-size="15" font-weight="normal">JetBrains · VS Code · Visual Studio · Eclipse</text></g>
+<g style="animation:f17 11.0s linear infinite;"><text x="208" y="276" fill="#56d4d4" font-size="15" font-weight="bold">AI      </text><text x="280" y="276" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="276" fill="#f0f6fc" font-size="15" font-weight="normal">LangChain4j · Spring AI · MCP · Claude</text></g>
+<g style="animation:f18 11.0s linear infinite;"><text x="208" y="301" fill="#56d4d4" font-size="15" font-weight="bold">Infra   </text><text x="280" y="301" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="301" fill="#f0f6fc" font-size="15" font-weight="normal">MySQL · Redis · Docker · Kafka · Elasticsearch</text></g>
+<g style="animation:f19 11.0s linear infinite;"><text x="208" y="326" fill="#56d4d4" font-size="15" font-weight="bold">Focus   </text><text x="280" y="326" fill="#6e7681" font-size="15" font-weight="normal">:</text><text x="298" y="326" fill="#f0f6fc" font-size="15" font-weight="normal">reusable frameworks · dev tooling · LLM integration</text></g>
+<g style="animation:f20 11.0s linear infinite;"><rect x="208" y="362" width="24" height="14" rx="2" fill="#484f58"/><rect x="236" y="362" width="24" height="14" rx="2" fill="#ff7b72"/><rect x="264" y="362" width="24" height="14" rx="2" fill="#3fb950"/><rect x="292" y="362" width="24" height="14" rx="2" fill="#d29922"/><rect x="320" y="362" width="24" height="14" rx="2" fill="#79c0ff"/><rect x="348" y="362" width="24" height="14" rx="2" fill="#bc8cff"/><rect x="376" y="362" width="24" height="14" rx="2" fill="#56d4d4"/><rect x="404" y="362" width="24" height="14" rx="2" fill="#f0f6fc"/></g>
 </g>
 </svg>
