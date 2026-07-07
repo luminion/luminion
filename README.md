@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/terminal.svg" width="88%" alt="whoami — animated terminal session" />
+  <img src="./assets/terminal.svg" width="90%" alt="luminion — animated terminal session" />
 </div>
 
 <div align="center">
@@ -13,15 +13,11 @@
   <img src="https://img.shields.io/badge/license-Apache_2.0-bc8cff?style=flat-square&labelColor=0d1117" alt="license" />
 </p>
 
-<div align="center">
-  <img src="./assets/neofetch.svg" width="88%" alt="neofetch — luminion system info" />
-</div>
-
 <!-- ─────────────────────────────  FLAGSHIP  ───────────────────────────── -->
 
-## `❯ ls ~/open-source --published`
+## `❯ cat ~/open-source/README.md`
 
-<sub>Released libraries on Maven Central under <code>io.github.luminion</code> — built to remove backend boilerplate.</sub>
+<sub>Published libraries on Maven Central under <code>io.github.luminion</code> — built to remove backend boilerplate.</sub>
 
 <table>
   <tr>
@@ -46,23 +42,17 @@
   </tr>
 </table>
 
-<!-- ─────────────────────────────  LABS  ───────────────────────────── -->
-
-## `❯ tree ~/labs`
-
-<sub>Where I study frameworks end-to-end and track what's next — from servlet internals to the current GenAI stack.</sub>
-
-<div align="center">
-  <img src="./assets/labs.svg" width="88%" alt="tree ~/labs — study & exploration repos" />
-</div>
-
 <!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 
 ## `❯ stack --all`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,cs,dotnet,vue,flutter,mysql,postgres,redis,elasticsearch,docker,kafka,rabbitmq,jenkins,git,linux,nginx,idea&perline=10" alt="tech stack" />
-</div>
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # (  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,cs,dotnet,vue,flutter,mysql,postgres,redis,elasticsearch,docker,kafka,rabbitmq,jenkins,git,linux,nginx,idea&perline=10" alt="tech stack" />)
+
+[//]: # ()
+[//]: # (</div>)
 
 <table>
   <tr>
@@ -71,14 +61,6 @@
     <td valign="top" width="34%"><strong>Infra & Data</strong><br/><sub>MySQL · PostgreSQL · Redis · Elasticsearch · Docker · Kafka · RabbitMQ · Jenkins</sub></td>
   </tr>
 </table>
-
-<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
-
-## `❯ gh api /users/luminion --stats`
-
-<div align="center">
-  <img src="./assets/stats.svg" width="88%" alt="luminion — github stats" />
-</div>
 
 <!-- ─────────────────────────────  CONTRIB  ───────────────────────────── -->
 
